@@ -5,17 +5,22 @@ I'm <b>Gap</b>, a cybersecurity student experimenting with every hardware and so
 </br>
 ## Projects
 Looking for my projects? Here are the links!
-<ul>
-<li>My cheap and sustainable [HomeLab](gapilo14.github.io/HomeLab) (website under development)</li>
-<li>The latest [project on Celestia](https://github.com/gapilo14/celestia-blockchain-optimization) blockchain
-<li>The [SYN scan implementation](https://github.com/gapilo14/Original-SYN) based on the "Original SYN" paper</li>
-<li>The performance analysis and optimization of a [IMDb webapp](https://github.com/Visco01/IMDb-Rails-Performance-Project)</li>
-</ul>
+
+- My cheap and sustainable [HomeLab][1] - (website under development)</li>
+- The latest [project on Celestia][2] blockchain
+- The [SYN scan implementation][3] based on the "Original SYN" paper </li>
+- The performance analysis and optimization of a [IMDb webapp][4] </li>
+
 
 ## Let's talk!
 For any curiosity on the projects or (almost) any kind of information, please feel free to visit [my Bento](bento.me/gap) with all my conctat info. 
 
 
+
+[1]: [gapilo14.github.io/HomeLab]
+[2]: [github.com/gapilo14/celestia-blockchain-optimization]
+[3]: [github.com/gapilo14/Original-SYN]
+[4]: [github.com/Visco01/IMDb-Rails-Performance-Project]
 
 
 <!--
