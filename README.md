@@ -9,7 +9,7 @@ Looking for my projects? Here are the links!
 - My cheap and sustainable [HomeLab](gapilo14.github.io/HomeLab) - (website under development)</li>
 - The latest [project on Celestia](github.com/gapilo14/celestia-blockchain-optimization) blockchain
 - The [SYN scan implementation](github.com/gapilo14/Original-SYN) based on the "Original SYN" paper </li>
-- The performance analysis and optimization of a [IMDb webapp](github.com/Visco01/IMDb-Rails-Performance-Project) </li>
+- The performance analysis and optimization of a [IMDb webapp](https://github.com/Visco01/IMDb-Rails-Performance-Project) </li>
 
 
 ## Let's talk!
